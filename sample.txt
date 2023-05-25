@@ -1,0 +1,7 @@
+import pandas as pd
+
+df = pd.read_csv('text_sample.csv')
+
+print(df.header)
+
+This is sample test file.
